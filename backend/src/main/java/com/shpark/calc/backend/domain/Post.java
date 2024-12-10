@@ -1,6 +1,5 @@
 package com.shpark.calc.backend.domain;
 
-import com.shpark.calc.backend.dto.PostDTO;
 import jakarta.persistence.*;
 import lombok.*;
 import lombok.extern.log4j.Log4j2;

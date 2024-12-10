@@ -1,6 +1,5 @@
 package com.shpark.calc.backend.controller;
 
-import com.shpark.calc.backend.domain.Post;
 import com.shpark.calc.backend.dto.PostDTO;
 import com.shpark.calc.backend.service.PostService;
 import lombok.RequiredArgsConstructor;

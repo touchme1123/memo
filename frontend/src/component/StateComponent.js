@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import GroupList from './GroupList';
 import Menu from "../layouts/Menu";
 import Main from "../pages/Main";
 

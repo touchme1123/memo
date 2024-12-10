@@ -1,8 +1,6 @@
 package com.shpark.calc.backend.controller;
 
-import com.shpark.calc.backend.domain.Group;
 import com.shpark.calc.backend.dto.GroupDTO;
-import com.shpark.calc.backend.dto.PostDTO;
 import com.shpark.calc.backend.service.GroupService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;

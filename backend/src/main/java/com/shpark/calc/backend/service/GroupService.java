@@ -1,6 +1,6 @@
 package com.shpark.calc.backend.service;
 
-import com.shpark.calc.backend.domain.Group;
+
 import com.shpark.calc.backend.dto.GroupDTO;
 import org.springframework.transaction.annotation.Transactional;
 

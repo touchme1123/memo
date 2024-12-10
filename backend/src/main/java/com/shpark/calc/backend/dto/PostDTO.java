@@ -1,8 +1,8 @@
 package com.shpark.calc.backend.dto;
 
-import com.shpark.calc.backend.domain.Post;
+
 import com.shpark.calc.backend.domain.PostImage;
-import jakarta.persistence.ElementCollection;
+
 import lombok.*;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.web.multipart.MultipartFile;
@@ -10,7 +10,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
+
 
 @Log4j2
 @Data
