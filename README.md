@@ -44,7 +44,6 @@ SIMPLE BOARD - MEMO 기능이 있는 WEB APP
 1. Clone the backend repository:
    ```bash
    git clone
-   cd backend
 
 2. Set up the MariaDB database connection:
   Open src/main/resources/application.properties and configure the following:
