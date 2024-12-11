@@ -2,6 +2,8 @@
 
 SIMPLE BOARD - MEMO 기능이 있는 WEB APP
 
+https://simplez-board.netlify.app/
+
 ## Tech Stack
 
 ### Backend
