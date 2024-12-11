@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-export const API_SERVER_HOST = 'http://localhost:8080'
+export const API_SERVER_HOST = 'https://port-0-simple-boarad-m4j5hbxu19c10750.sel4.cloudtype.app'
 
 const prefix = `${API_SERVER_HOST}/api/post`
 
